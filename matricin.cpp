@@ -4,6 +4,8 @@
 #include <tchar.h>
 #include <math.h>
 #include <stdlib.h>
+
+
 class CMatrix
 {
     private:
