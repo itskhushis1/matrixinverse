@@ -493,7 +493,7 @@ std::ostream& operator <<(std::ostream &os, const CMatrix &m)
     os << "\n\n";
     return os;
 }
-#endif
+
 int main()
 {
     CMatrix a("A", 5, 5);
