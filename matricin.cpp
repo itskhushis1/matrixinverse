@@ -6,7 +6,6 @@
 #include <stdlib.h>
 
 
-
 class CMatrix
 {
     private:
